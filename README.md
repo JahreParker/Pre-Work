@@ -7,7 +7,7 @@ Changes text to a different color
 
 ### App Walk-though
 
-<img src="HellApp_CP.gif" width=200><br>
+<gif src="HellApp_CP.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
